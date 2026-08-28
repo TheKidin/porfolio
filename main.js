@@ -86,7 +86,7 @@ const projectData = {
     desc: 'Sistema completo de gestión de inventario desarrollado en C#. Control de productos, stock, categorías y reportes desde una interfaz de escritorio profesional.',
     link: 'https://github.com/TheKidin/PIA1.0',
     vercel: null,
-    images: ['images/inventario-1.png', 'images/inventario-2.png', 'images/inventario-3.png'],
+    images: ['images/inventario1.jpeg', 'images/inventario2.jpeg', 'images/inventario3.jpeg'],
   },
   PAGINASUPLES: {
     title: 'Tienda de Suplementos',
