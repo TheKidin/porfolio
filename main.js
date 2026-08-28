@@ -78,7 +78,7 @@ const projectData = {
     desc: 'Panel de administración para aplicación móvil (Clinova App) desarrollado con JavaScript. Incluye gestión de usuarios, estadísticas en tiempo real y control total del sistema desde el navegador.',
     link: 'https://github.com/TheKidin/AplicacionMovile',
     vercel: 'https://clinova-app.vercel.app/',
-    images: [MICROLINK('https://clinova-app.vercel.app/'), 'images/clinova-1.png', 'images/clinova-2.png', 'images/clinova-3.png', 'images/clinova-4.png', 'images/clinova-5.png'],
+    images: [MICROLINK('https://clinova-app.vercel.app/'), 'images/clinova2.png', 'images/clinova3.png', 'images/clinova4.png', 'images/clinova5.png', 'images/clinova6.png', 'images/clinova7.png'],
   },
   GestorInventario: {
     title: 'Gestor de Inventario',
