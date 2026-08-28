@@ -103,7 +103,7 @@ const projectData = {
     link: 'https://github.com/TheKidin/PAGINADED',
     vercel: 'https://dedsafiomr.vercel.app/',
     // Screenshot automático vía Microlink (se carga al abrir el modal)
-    images: [MICROLINK('https://dedsafiomr.vercel.app/'), 'images/paginaded.png', 'images/ded1.png'],
+    images: [MICROLINK('https://dedsafiomr.vercel.app/'), 'images/paginaded.png', 'images/ded1.png', 'images/ded2.png'],
   },
 };
 
