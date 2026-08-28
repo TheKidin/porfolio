@@ -94,7 +94,7 @@ const projectData = {
     desc: 'Sitio web completo para tienda de suplementos deportivos desarrollado con ASP.NET MVC y Bootstrap. Catálogo de productos, diseño responsivo y experiencia de compra optimizada.',
     link: 'https://github.com/TheKidin/PAGINASUPLES',
     vercel: null,
-    images: ['images/suples-1.png', 'images/suples-2.png', 'images/suples-3.png', 'images/suples-4.png'],
+    images: ['images/suples-1.png', 'images/suples-2.png', 'images/suples-3.png', 'images/suples-4.png', 'images/suples-5.png', 'images/suples-6.png'],
   },
   PAGINADED: {
     title: 'Página DED',
